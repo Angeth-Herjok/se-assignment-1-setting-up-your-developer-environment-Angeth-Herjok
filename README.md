@@ -52,3 +52,53 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
+DOCUMENTATION:
+
+
+Developer Environment Setup Documentation
+Overview
+This document outlines the steps I have taken to set up my development environment for the project. The environment includes the necessary tools and configurations to ensure a consistent and efficient workflow.
+
+Operating System
+I have installed Windows 11 on my development machine. The Windows 11 installation process was straightforward, and I followed the on-screen instructions provided by the Microsoft download page.
+
+Text Editor/IDE
+I have chosen to use Visual Studio Code as my primary text editor and Integrated Development Environment (IDE). I downloaded the latest version of Visual Studio Code from the official website and installed it on my machine. Visual Studio Code provides a rich set of features and extensions that enhance the development experience.
+
+Version Control
+For version control, I have set up a GitHub repository for the project. I created a new account on GitHub and initialized a Git repository for the project. This allows me to track changes, collaborate with team members, and manage the codebase effectively.
+
+Programming Language and Runtime
+Python is the primary programming language for this project. I have downloaded and installed the latest version of Python from the official website. I have also verified that the Python installation was successful by running python --version in the command prompt.
+
+Package Manager
+Python comes with the pip package manager pre-installed. I have confirmed the installation by running pip --version in the command prompt.
+
+Database Configuration
+I have installed the MySQL database for the project. I downloaded the latest version of the MySQL Installer for Windows from the official website and followed the on-screen instructions to complete the installation and configuration.
+
+Development Environment Virtualization (Optional)
+To ensure a consistent and isolated development environment, I have decided to use Docker containers. I have installed Docker Desktop on my machine and set up the necessary Docker configurations for the project.
+
+Visual Studio Code Extensions and Plugins
+To enhance my development workflow in Visual Studio Code, I have installed the following extensions:
+
+Git integration (e.g., GitLens, Git Blame)
+Syntax highlighting for Python
+Code formatting (e.g., Black, Prettier)
+Linting (e.g., pylint, flake8)
+These extensions provide additional features and tools to streamline the development process.
+
+Documentation and Reflection
+I have created this documentation file to record the steps taken during the setup process. This document serves as a reference for future setup or troubleshooting, and it can also be shared with team members or new developers joining the project.
+
+During the setup process, I encountered a few minor challenges, such as:
+
+Configuring the MySQL database connection in the project code.
+Integrating the Docker container with the development environment.
+I was able to resolve these issues by referring to the official documentation and seeking guidance from online resources and forums. The experience has helped me better understand the setup requirements and the importance of thorough documentation.
+
+
+
